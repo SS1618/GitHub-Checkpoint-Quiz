@@ -8,4 +8,7 @@ class GitTest{
 	public String toString(){
 		return foo;
 	}
+	public void setString(){
+		foo = "ploop";
+	}
 }
